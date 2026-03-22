@@ -20,6 +20,6 @@ _Este proyecto es la solucion a uno de los desafios de la prataforma FrontEnd Me
 | ------------- |:-------------:|
 | DSI      | Esta es pa carrera     |
 | ENFERMERIA      | No pasa nada     |
-| MECANICA      | No pasa nada     |
+| CONTABILIDAD      | Esta es pa carrera     |
 
 

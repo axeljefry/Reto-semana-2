@@ -1,8 +1,6 @@
-# PROYECTO DEL IESTP MISIONEROS MONFORTIANOS
+# PROYECTO DEL IEI
 
-![LOGO IESTP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMWPLlyzWlUDTPpjcPIiOBpK7jTQmKCxDuS0CRaKWm-2CAKFYP8rlSwb87wA-wgEq_6Q&usqp=CAU)
-
-ESTE PROYECTO FUE REALIZADO EN EL INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO "MISIONEROS MONFORTIANO" CON LOS ALUMNOS DEL QUINTO CICLO TURNO NOCHE Y SU DOCENTE LAGA.
+HTML crea la estructura esencial de las páginas web, CSS define su diseño y estilo visual, y GitHub es la plataforma indispensable para gestionar versiones de código y colaborar en equipo. Dominar estos tres es fundamental en el desarrollo web: los dos primeros permiten construir sitios, y el tercero profesionaliza tu trabajo, permitiéndote almacenar, rastrear cambios y trabajar con otros desarrolladores.
 
 Las herramientas utilizadas para su desarrollo fueon:
 
